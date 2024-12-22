@@ -1,0 +1,14 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body {
+  background-color: rgb(13, 12, 12);
+  color: white;
+}
+
+.hover-text-white {
+  transition: color 0.2s ease;
+}
+
+.hover-text-white:hover {
+  color: white !important;
+}
